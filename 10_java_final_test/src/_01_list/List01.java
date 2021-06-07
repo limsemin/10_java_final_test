@@ -2,9 +2,9 @@ package _01_list;
 
 class LinkedList{
 	
-	private ListNode head;
+	private ListNode head; // 노드에 제일 윗부분 
 	
-	public LinkedList(){
+	public LinkedList(){ //
 		head = null;
 	}
 	
